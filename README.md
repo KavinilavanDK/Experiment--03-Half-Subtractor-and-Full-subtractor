@@ -1,6 +1,6 @@
 # Name: Kavinilavan DK
 # Roll No: 23014025
-# Experiment 03: Implementation of half subtractor and full subtractor circuit
+# Experiment 04: Implementation of half subtractor and full subtractor circuit
 # AIM
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 #  Equipments Required
